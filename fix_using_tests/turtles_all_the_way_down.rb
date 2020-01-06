@@ -1,5 +1,6 @@
 
 def turtles
+  traits =
     [
       {name: "Donatello", weapon: "bo-staff", traits: ["serious", "leader"]},
       {name: "Michaelangelo", weapon: "nunchuks", traits: "party dude"},
